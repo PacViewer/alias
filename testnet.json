@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Treasury",
+    "description": "The Treasury account is a special account in Pactus blockchain that holds 21 million coins at the genesis time used for block rewards.",
+    "website": "https://pactus.org",
+    "email": "info@pactus.org",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "000000000000000000000000000000000000000000"
+    ]
+  },
+  {
+    "title": "Dezh Faucet",
+    "description": "Faucet address of Dezh Technologies",
+    "website": "https://dezh.tech/",
+    "email": "hi@dezh.tech",
+    "type": "account",
+    "icon": "https://raw.githubusercontent.com/PacViewer/alias/main/assets/icon/dezh.png",
+    "address": [
+      "tpc1zhjjg3zpypxu7vcr5ude7m5rl5z42x20qg9s09z"
+    ]
+  },
+  {
+    "title": "Wrapto Lock",
+    "description": "TestNet version of the Wrapto",
+    "website": "https://wrapto.app/",
+    "email": "",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "tpc1zlymfcuxlgvvuud2q4zw0scllqn74d2f90hld6w"
+    ]
+  },
+  {
+    "title": "Pagu Faucet",
+    "description": "The Pagu bot testnet developer faucet",
+    "website": "",
+    "email": "",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "tpc1zclkwuupclv9qlge5yq95x7t6jqn4rrn89r5hte"
+    ]
+  },
+  {
+    "title": "Dezh Validators",
+    "description": "Dezh Technologies is building tools, apps, services and infras that make decentralized web happens.",
+    "website": "https://dezh.tech",
+    "email": "hi@dezh.tech",
+    "type": "validator",
+    "icon": "https://raw.githubusercontent.com/PacViewer/alias/main/assets/icon/dezh.png",
+    "address": [
+      "tpc1pupkr2nmspamhmjaskkv9pcxwekvuppcnaxc02e",
+      "tpc1p5hgx45pyxyakqqha9uhl46tlernukgaujkyd7y",
+      "tpc1p9zfeccy2yx0y0g7xc7qw78z2f53u464hfttmz6",
+      "tpc1pde3jswcd2u5dc4n4a45j88z25u9tswnse05csu",
+      "tpc1p0qnm3vet7vakt0jz7k4r6e99qrsptpxnuthm8n",
+      "tpc1phd222z2mh2yhkr9att800xmxtnnsq8spy52npj",
+      "tpc1pv2wayw7wnh2nypyjz636m794emwjqhkfuqhr4s",
+      "tpc1p79zdmru3s70l2gks8aqaxtyz3dnuxws6kax6zj",
+      "tpc1p36dtm86zxfq3684u5wmtlped2tfuupxz3uxdz9",
+      "tpc1plzxx7sc3jyfmnqtneke09g4w3h3pgpsqdmhfsx",
+      "tpc1pma9yv0rdpes029cr7gpm3c522mrckshlmv8mgk",
+      "tpc1pxvsjwymu368gt6r0rl4l2mtzmntgxpxf2au0cl",
+      "tpc1pzgskglc2m7h50h0yx8rzaknxtmyq9g0uynahxc",
+      "tpc1py5n0eqx7c9uezesgk0xr4qq5ssw4vpgwws7cs5",
+      "tpc1pwefunkez88a8x08xhfu3tvfpcd8g6wnczpreyp",
+      "tpc1pqklpjsw2l4dvlmheuwq0huxzpxtj2ufkn6kyc0",
+      "tpc1p6t3zugudxjafzhe9kf3xv5z5c2y0lgjrafazjc",
+      "tpc1przw57y3zdqydsc309070kw76d9wee788860yu3",
+      "tpc1pxakg75q63e9sjv28xjvdgw05ss8xxjtq4ql24q",
+      "tpc1pmy0qdwh4k92vxpz5y8hnw9eseaxt6ldcgfhu8r",
+      "tpc1psdlgg33gxw5wvqnuy4apm4elngvfq9tag6jduf",
+      "tpc1p40wvtyhyw6pxhs2jpeuttx6022w5rhtgszysw5",
+      "tpc1plr4njnh0vskuguecf9qnd7fm8gkd4rs7thyzzy",
+      "tpc1pnlqgf37z9eghugcmwlkmgcymnrmgfun8tq2ctj",
+      "tpc1p2fp4s0xaxr5jqe3fxzggva2ydtskjj99erayct",
+      "tpc1p45e98hph3er6guldxjww862nwnllsq48mwwjd0",
+      "tpc1p7mvu9hrlqczluetse0rr7ph6cz5nxw57e908g2",
+      "tpc1pmsle07ks58f3f8v2pu6mp5ufvnd9f628v2kr6n",
+      "tpc1pz23jjwshh60js8e3j685fevq8cr29uzt6s28t7",
+      "tpc1pgxsr443dcpnp3a4tz7tpna63v0k82wg69tqqw7",
+      "tpc1pgzdf4f6cc23dkf98395vh8x6uepnhtpcfa6px5",
+      "tpc1p68d5gpwvelmsvcm8z4k3zyqq0nczlq9klptyah"
+    ]
+  }
+]
