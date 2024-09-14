@@ -1,0 +1,59 @@
+name: Request alias name
+description: Request an alias name for your Pactus account or validator address
+title: Request alias name for [address]
+labels: ['alias name']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out this form with details about the alias name for your Pactus account or validator address.
+ - type: dropdown
+    id: address-type
+    attributes:
+      label: Address Type
+      description: For which address type would you like an alias name?
+      options:
+        - Validator
+        - Account
+    validations:
+      required: true
+ - type: input
+    id: address
+    attributes:
+      label: Address
+      description: Pactus account or validator address
+      placeholder: ex. pc1z...
+    validations:
+      required: true
+ - type: input
+    id: icon
+    attributes:
+      label: Icon png 32x32
+      description: Add icon for alias name
+      placeholder: https://file.example.com/icon32x32.png
+    validations:
+      required: false
+ - type: input
+    id: website
+    attributes:
+      label: Website
+      description: What website is the Pactus account or validator address associated with?
+      placeholder: https://example.com
+    validations:
+      required: false
+ - type: input
+    id: email
+    attributes:
+      label: Email
+      description: Business email address
+      placeholder: foobar@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Please provide more details about your address.
+    validations:
+      required: false
+
