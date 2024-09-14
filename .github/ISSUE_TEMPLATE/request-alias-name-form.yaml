@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Please fill out this form with details about the alias name for your Pactus account or validator address.
- - type: dropdown
+  - type: dropdown
     id: address-type
     attributes:
       label: Address Type
@@ -17,7 +17,7 @@ body:
         - Account
     validations:
       required: true
- - type: input
+  - type: input
     id: address
     attributes:
       label: Address
@@ -25,7 +25,7 @@ body:
       placeholder: ex. pc1z...
     validations:
       required: true
- - type: input
+  - type: input
     id: icon
     attributes:
       label: Icon png 32x32
@@ -33,7 +33,7 @@ body:
       placeholder: https://file.example.com/icon32x32.png
     validations:
       required: false
- - type: input
+  - type: input
     id: website
     attributes:
       label: Website
@@ -41,7 +41,7 @@ body:
       placeholder: https://example.com
     validations:
       required: false
- - type: input
+  - type: input
     id: email
     attributes:
       label: Email
@@ -56,4 +56,3 @@ body:
       description: Please provide more details about your address.
     validations:
       required: false
-
