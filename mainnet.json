@@ -1,20 +1,117 @@
 [
   {
-    "title": "",
-    "website": "",
-    "email": "",
-    "address": ""
+    "title": "Treasury",
+    "description": "The Treasury account is a special account in Pactus blockchain that holds 21 million coins at the genesis time used for block rewards.",
+    "website": "https://pactus.org",
+    "email": "info@pactus.org",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "000000000000000000000000000000000000000000"
+    ]
   },
   {
-    "title": "",
-    "website": "",
-    "email": "",
-    "address": ""
+    "title": "Dezh Donation",
+    "description": "Dezh Technologies is building tools, apps, services and infras that make decentralized web happens.",
+    "website": "https://dezh.tech",
+    "email": "hi@dezh.tech",
+    "type": "account",
+    "icon": "https://raw.githubusercontent.com/PacViewer/alias/main/assets/icon/dezh.png",
+    "address": [
+      "pc1zpaxc4jue9s68tg5zyqcj59nc8nxlj39mf5fsvc"
+    ]
   },
   {
-    "title": "",
+    "title": "RoboPac Wallet",
+    "description": "RoboPac is a Robot that provides support and information about the Pactus Blockchain.",
     "website": "",
     "email": "",
-    "address": ""
+    "type": "account",
+    "icon": "",
+    "address": [
+      "pc1z5eaquqt8fuadnhanx6xyzqn0c23mfnmraqsaql"
+    ]
+  },
+  {
+    "title": "Xeggex Exchange",
+    "description": "trade with ultra low fees at XeggeX.",
+    "website": "https://xeggex.com/",
+    "email": "",
+    "type": "account",
+    "icon": "https://raw.githubusercontent.com/PacViewer/alias/main/assets/icon/xeggex.png",
+    "address": [
+      "pc1z2wtq43p8fnueya9qufq9hkutyr899npk2suleu"
+    ]
+  },
+  {
+    "title": "Wrapto Lock",
+    "description": "The Wrapto Protocol is a bridge from Pactus PAC coins to every other well-known blockchain out there using a wPAC Token.",
+    "website": "https://wrapto.app",
+    "email": "",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "pc1zqyxjatqfhaj3arc727alwl4sa3z8lv2m730eh2"
+    ]
+  },
+  {
+    "title": "Pacviewer Donation",
+    "description": "",
+    "website": "https://pacviewer.com",
+    "email": "info@pacviewer.com",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "pc1zmq3exgnjn4w7unuu5cmqp2eauz0eat84aec7ev"
+    ]
+  },
+  {
+    "title": "Azbit Exchange",
+    "description": "",
+    "website": "https://azbit.com",
+    "email": "",
+    "type": "account",
+    "icon": "",
+    "address": [
+      "pc1zdresqfw4wz86zpg0sc63nsfnt4twev6zj8x8zv"
+    ]
+  },
+  {
+    "title": "CodeBlockLabs",
+    "description": "CodeBlockLabs is the #1 indonesian community focused on blockchain test and development accross multiple blockchain.",
+    "website": "https://codeblocklabs.com",
+    "email": "codeblocklabs@proton.me",
+    "type": "validator",
+    "icon": "",
+    "address": [
+      "pc1pcd725zfn7ky3tp2axgzrps3tq37txj5vzduz5w"
+    ]
+  },
+  {
+    "title": "WikiValidator",
+    "description": "WikiValidator is trusted Proof of Stake validator. Active ecosystem contributor, IBC relayer and chain service provider since 2021.",
+    "website": "https://www.validator.wiki",
+    "email": "team@validator.wiki",
+    "type": "validator",
+    "icon": "",
+    "address": [
+      "pc1py4gdpqwvzmlfhlwgzu079248uf8jyzqu5xa24n",
+      "pc1pqgmdk5lnekhx8sxj4k70jh7ypjf0ul5x4kk446"
+    ]
+  },
+ {
+    "title": "Dezh Validator",
+    "description": "Dezh Technologies is building tools, apps, services and infras that make decentralized web happens.",
+    "website": "https://dezh.tech",
+    "email": "hi@dezh.tech",
+    "type": "validator",
+    "icon": "",
+    "address": [
+      "pc1pexwwrgygv3alj77mul0zpmhpl52sqtv38lv5de",
+      "pc1p4qh37a2uwnw4mlaeth4fuxnqug0udjghlx7cag",
+      "pc1pltnjk7hqryfzvz674wvy2haz0kvnsq08l7crcl",
+      "pc1p4uq638rpeg3qpj6m4fk74k4neul5l36055qhrm",
+      "pc1p29mvp65l3ja969peqjgs4ttfcr64xjjglqpe0a"
+    ]
   }
 ]
