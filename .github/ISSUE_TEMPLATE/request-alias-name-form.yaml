@@ -14,7 +14,7 @@ body:
     id: addresses
     attributes:
       label: Addresses
-      description: Pactus accounts or validator addresses: You can submit a single address or multiple addresses.
+      description: Pactus accounts or validator addresse, You can submit a single address or multiple addresses
       Tip: Each line is an address validator or account
       value: |
         - account:[address]
