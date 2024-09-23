@@ -1,6 +1,6 @@
 name: Request alias name
 description: Request an alias name for your Pactus account or validator address
-title: Request alias name for [address]
+title: Request alias name for [service name]
 labels: ["alias"]
 assignees:
   - Mr-HoDL58
@@ -10,24 +10,20 @@ body:
     attributes:
       value: |
         Please fill out this form with details about the alias name for your Pactus account or validator address.
-  - type: dropdown
-    id: address-type
+  - type: textarea
+    id: addresses
     attributes:
-      label: Address Type
-      description: For which address type would you like an alias name?
-      options:
-        - Validator
-        - Account
+      label: Addresses
+      description: Pactus accounts or validator addresses: You can submit a single address or multiple addresses.
+      Tip: Each line is an address validator or account
+      value: |
+        - account:[address]
+        - validator:[address]
+        - ...
+        - account:[address]
     validations:
       required: true
-  - type: input
-    id: address
-    attributes:
-      label: Address
-      description: Pactus account or validator address
-      placeholder: ex. pc1z...
-    validations:
-      required: true
+    render: markdown
   - type: input
     id: icon
     attributes:
