@@ -17,6 +17,9 @@ body:
       description: |
          Pactus accounts or validator addresse, You can submit a single address or multiple addresses.
          Each line is an address validator or account.
+         For Example: 
+            - account:pc1z...
+            - validator:pc1p...
       value: |
         - account:[address]
         - validator:[address]
