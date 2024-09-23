@@ -21,9 +21,9 @@ body:
         - validator:[address]
         - ...
         - account:[address]
+      render: markdown
     validations:
       required: true
-    render: markdown
   - type: input
     id: icon
     attributes:
