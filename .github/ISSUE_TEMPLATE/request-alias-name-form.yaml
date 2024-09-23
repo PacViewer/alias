@@ -3,6 +3,7 @@ description: Request an alias name for your Pactus account or validator address
 title: Request alias name for [address]
 labels: ["alias"]
 assignees:
+  - Mr-HoDL58
   - ja7ad
 body:
   - type: markdown
