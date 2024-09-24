@@ -10,6 +10,16 @@ body:
     attributes:
       value: |
         Please fill out this form with details about the alias name for your Pactus account or validator address.
+  - type: dropdown
+    id: network
+    attributes:
+      label: Network
+      description: Alias for which network [mainnet, testnet]
+      options:
+        - Mainnet
+        - Testnet
+    validations:
+      required: true
   - type: textarea
     id: addresses
     attributes:
