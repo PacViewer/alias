@@ -64,8 +64,8 @@ body:
   - type: input
     id: icon
     attributes:
-      label: Icon png 32x32
-      description: Add icon for alias name
+      label: 🌄 Icon
+      description: Add icon for alias name (require png 32x32)
       placeholder: https://file.example.com/icon32x32.png
     validations:
       required: false
