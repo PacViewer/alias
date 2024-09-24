@@ -70,9 +70,9 @@ body:
     validations:
       required: false
   - type: textarea
-    id: details
+    id: description
     attributes:
-      label: Details
+      label: Description
       description: Please provide more details about your address.
     validations:
       required: false
