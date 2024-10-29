@@ -6,4 +6,4 @@ PacViewer Alias simplifies blockchain address management by allowing users to as
 
 ## How to add my account or validator alias name?
 
-You can submit your account or validator address by [new issue](https://github.com/PacViewer/alias/issues/new?assignees=ja7ad&labels=alias&projects=&template=request-alias-name-form.yaml&title=Request+alias+name+for+%5Baddress%5D).
+You can submit your account or validator to https://forms.gle/MeBxib3EfhJ5zMdAA.
